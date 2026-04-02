@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\data\\migrations\\20260402185630_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\data\\migrations\\20260402185630_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|c:\\users\\pc\\onedrive\\desktop\\hospitalapp\\hospitalapp\\data\\hospitalappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE8183B-6078-4344-BDAC-95FB85A1C0E4}|HospitalApp\\HospitalApp.csproj|solutionrelative:hospitalapp\\data\\hospitalappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:15:40.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalApp\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "HospitalApp\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T19:10:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalApp\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalApp\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:03:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260402185630_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Data\\Migrations\\20260402185630_mig_1.cs",
+              "RelativeDocumentMoniker": "HospitalApp\\Data\\Migrations\\20260402185630_mig_1.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Data\\Migrations\\20260402185630_mig_1.cs",
+              "RelativeToolTip": "HospitalApp\\Data\\Migrations\\20260402185630_mig_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:56:37.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Program.cs",
+              "RelativeToolTip": "HospitalApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:46:33.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalApp\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalApp\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:41:19.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HospitalApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Models\\Department.cs",
+              "RelativeToolTip": "HospitalApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:41:31.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HospitalApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\appsettings.Development.json",
+              "RelativeToolTip": "HospitalApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T18:48:57.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Data\\HospitalAppDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalApp\\Data\\HospitalAppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\HospitalApp\\HospitalApp\\Data\\HospitalAppDbContext.cs",
+              "RelativeToolTip": "HospitalApp\\Data\\HospitalAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:43:29.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
